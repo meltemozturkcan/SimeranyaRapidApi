@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MnBfN5J8+D5W9JpB4tL+e50BJmal3+soSg5f099W3uiqf2SIJJCPhN/6DOOGrMy/HtW/pCFXC3SPUmpFb8vHqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Meltem\\Desktop\\SimeranyaRapidApi\\RapidApiConsume\\RapidApiConsume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meltem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

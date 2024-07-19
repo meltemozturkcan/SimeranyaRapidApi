@@ -1,0 +1,14 @@
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\bin\Debug\net8.0\Simeranya.EntityLayer.deps.json
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\bin\Debug\net8.0\Simeranya.EntityLayer.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\bin\Debug\net8.0\Simeranya.EntityLayer.pdb
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\obj\Debug\net8.0\Simeranya.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\obj\Debug\net8.0\Simeranya.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\obj\Debug\net8.0\Simeranya.EntityLayer.AssemblyInfo.cs
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\obj\Debug\net8.0\Simeranya.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\obj\Debug\net8.0\Simeranya.EntityLayer.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\obj\Debug\net8.0\refint\Simeranya.EntityLayer.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\obj\Debug\net8.0\Simeranya.EntityLayer.pdb
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\obj\Debug\net8.0\ref\Simeranya.EntityLayer.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\bin\Debug\net8.0\Simeranya.EntityLayer.runtimeconfig.json
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\obj\Debug\net8.0\Simeranya.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.EntityLayer\obj\Debug\net8.0\Simeranya.EntityLayer.genruntimeconfig.cache

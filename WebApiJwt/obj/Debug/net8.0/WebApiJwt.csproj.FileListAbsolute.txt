@@ -1,0 +1,7 @@
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\WebApiJwt\obj\Debug\net8.0\WebApiJwt.csproj.AssemblyReference.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\WebApiJwt\obj\Debug\net8.0\WebApiJwt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\WebApiJwt\obj\Debug\net8.0\WebApiJwt.AssemblyInfoInputs.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\WebApiJwt\obj\Debug\net8.0\WebApiJwt.AssemblyInfo.cs
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\WebApiJwt\obj\Debug\net8.0\WebApiJwt.csproj.CoreCompileInputs.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\WebApiJwt\obj\Debug\net8.0\WebApiJwt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\WebApiJwt\obj\Debug\net8.0\WebApiJwt.MvcApplicationPartsAssemblyInfo.cache

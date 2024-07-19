@@ -1,0 +1,17 @@
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\bin\Debug\net8.0\Simeranya.Dto.deps.json
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\bin\Debug\net8.0\Simeranya.Dto.runtimeconfig.json
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\bin\Debug\net8.0\Simeranya.Dto.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\bin\Debug\net8.0\Simeranya.Dto.pdb
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\bin\Debug\net8.0\Simeranya.EntityLayer.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\bin\Debug\net8.0\Simeranya.EntityLayer.pdb
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\obj\Debug\net8.0\Simeranya.Dto.csproj.AssemblyReference.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\obj\Debug\net8.0\Simeranya.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\obj\Debug\net8.0\Simeranya.Dto.AssemblyInfoInputs.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\obj\Debug\net8.0\Simeranya.Dto.AssemblyInfo.cs
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\obj\Debug\net8.0\Simeranya.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\obj\Debug\net8.0\Simeranya.Dto.csproj.CopyComplete
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\obj\Debug\net8.0\Simeranya.Dto.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\obj\Debug\net8.0\refint\Simeranya.Dto.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\obj\Debug\net8.0\Simeranya.Dto.pdb
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\obj\Debug\net8.0\Simeranya.Dto.genruntimeconfig.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.Dto\obj\Debug\net8.0\ref\Simeranya.Dto.dll

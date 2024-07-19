@@ -1,0 +1,17 @@
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\bin\Debug\net8.0\Simeranya.DataAccessLayer.deps.json
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\bin\Debug\net8.0\Simeranya.DataAccessLayer.runtimeconfig.json
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\bin\Debug\net8.0\Simeranya.DataAccessLayer.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\bin\Debug\net8.0\Simeranya.DataAccessLayer.pdb
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\bin\Debug\net8.0\Simeranya.EntityLayer.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\bin\Debug\net8.0\Simeranya.EntityLayer.pdb
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\obj\Debug\net8.0\Simeranya.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\obj\Debug\net8.0\Simeranya.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\obj\Debug\net8.0\Simeranya.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\obj\Debug\net8.0\Simeranya.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\obj\Debug\net8.0\Simeranya.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\obj\Debug\net8.0\Simeranya.DataAccessLayer.csproj.CopyComplete
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\obj\Debug\net8.0\Simeranya.DataAccessLayer.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\obj\Debug\net8.0\refint\Simeranya.DataAccessLayer.dll
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\obj\Debug\net8.0\Simeranya.DataAccessLayer.pdb
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\obj\Debug\net8.0\Simeranya.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Meltem\Desktop\SimeranyaRapidApi\ApiConsume\Simeranya.DataAccessLayer\obj\Debug\net8.0\ref\Simeranya.DataAccessLayer.dll
